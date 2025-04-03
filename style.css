@@ -1,4 +1,18 @@
+h1 {
+  color: rgb(177, 136, 85);
+  font-size: xlarge;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+h2 {
+  color: black;
+  font-size: large;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
 table {
+  margin: auto;
   border-collapse: collapse;
 }
 td {
