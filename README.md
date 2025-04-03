@@ -19,7 +19,7 @@ Make sure you have [Node.js](https://nodejs.org) installed.
 
 ```bash
 git clone https://github.com/halukerenozlu/WebPrayerCalendar.git
-cd WebPrayerCalender
+cd WebPrayerCalendar
 ```
 
 ### 2. Install dependencies:
